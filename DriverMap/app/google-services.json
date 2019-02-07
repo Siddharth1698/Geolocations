@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "274741506769",
+    "firebase_url": "https://drivermap-5ecc9.firebaseio.com",
+    "project_id": "drivermap-5ecc9",
+    "storage_bucket": "drivermap-5ecc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274741506769:android:f801796e556ce814",
+        "android_client_info": {
+          "package_name": "ml.siddharthm.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274741506769-c42rje1nfdaolnitfld9e26vpiiasen8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ml.siddharthm.myapplication",
+            "certificate_hash": "dd2150147763d1bac9b257511fb14b0eca138646"
+          }
+        },
+        {
+          "client_id": "274741506769-aoep3fct1asqf7pab21pnmd36ice770b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoqRNt6JSFFSGsNIgAYL3D6VpIIumeuHA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274741506769-aoep3fct1asqf7pab21pnmd36ice770b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
